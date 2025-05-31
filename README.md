@@ -19,6 +19,7 @@ Node.js + Express
 PostgreSQL + Drizzle ORM
 Telegram Bot API
 Session-based authentication
+
 📁 Project Structure
 ├── client/                 # Frontend React application
 │   ├── src/
